@@ -10,6 +10,13 @@ Technologies Used
 React HTML CSS 
 JavaScript (for fetching and displaying facts)
 Cat Facts API : https://catfact.ninja/fact
+## 📸 Preview
+
+ ![App Screenshot](https://res.cloudinary.com/dsqohehtj/image/upload/v1748969319/Screenshot_2025-06-03_121833_bioonv.png)
 
 
 
+
+
+
+ ![App Screenshot](https://res.cloudinary.com/dsqohehtj/image/upload/v1748969319/Screenshot_2025-06-03_121853_fqa5w7.png)
